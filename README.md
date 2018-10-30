@@ -1,2 +1,2 @@
 # SE-2-Proj
-Project for SE2 course (union)
+Project for SE2 course (unitn)
